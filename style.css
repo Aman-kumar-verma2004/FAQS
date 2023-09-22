@@ -1,0 +1,72 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width:100%;
+    height:100%;
+}
+
+.ques{
+    padding: 0.5%;
+    
+    width: 85%;
+    height: "20px";
+    background-color:white;
+    color: white;
+    font-weight: 900;
+}
+header{
+    background-color:  black;
+    color: white;
+}
+.main{
+   text-shadow: 0cqmin;
+}
+
+
+.details{
+    background-color:rgb(36, 33, 30);
+    color: white;
+}
+.foot{
+ text-align: center;
+}
+#a{
+padding: 0.5%;
+}
+#b{
+    padding: 0.5%;
+    }
+    #c{
+        padding: 0.5%;
+        }
+        #d{
+            padding: 0.5%;
+            }
+            #e{
+                padding: 1%;
+                }
+                #f{
+                    padding: 1%;
+                    }
+                    #g{
+                        padding: 1%;
+                        }
+                        #h{
+                            padding: 1%;
+                        }
+#hello{
+    background-color: black;
+}
+#aman{
+    background-color: black;
+}
+#subham{
+    background-color: black;
+}
+#lucky{
+    background-color: black;
+}
